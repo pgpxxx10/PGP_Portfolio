@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on PGP</title>
+    <link>https://pgpxxx10.github.io/PGP_Portfolio/post/</link>
+    <description>Recent content in Projects on PGP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://pgpxxx10.github.io/PGP_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4 Coins price prediction with LSTM model.</title>
+      <link>https://pgpxxx10.github.io/PGP_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 23 Nov 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://pgpxxx10.github.io/PGP_Portfolio/post/project-4/</guid>
+      <description>How to predict future price for cryptocurrency assets?
+  For this project, I will use my 6 favourite coins.
+  The first task is to collect current coin data from yahoo finance using yahoo API. I&amp;rsquo;m going to focus on the last 2 year period.
+  I will provide important coin statistics that will give useful information about each coin project. In the next step I will create useful visualisations for close day prices and price changes.</description>
+    </item>
+    
+    <item>
+      <title>Project 3 Smart A/B - testing project.</title>
+      <link>https://pgpxxx10.github.io/PGP_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 12 Nov 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://pgpxxx10.github.io/PGP_Portfolio/post/project-3/</guid>
+      <description>A/B testing, also known as split testing, refers to a randomized experimentation process. Where in two or more versions of a variable (web page, page element, etc.) are shown to different segments of website visitors at the same time.
+  This process is control and data are collected to determine which version leaves the maximum impact and drive business metrics.
+  Smart Add decided to measure and collect experiment data where they tracked visitors that were served two different type of ads.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 Fraud detection classification</title>
+      <link>https://pgpxxx10.github.io/PGP_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 02 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pgpxxx10.github.io/PGP_Portfolio/post/project-2/</guid>
+      <description>The project goal is to build a fraud predictive model with accuracy above 90%. This is a binary classification task as our target represent binary data. I will clean data and perform feature engineering. I&amp;rsquo;m going to use Scikit-learn classification models and hyperparameters toning process. Models used for this project are: Logistic regression, Decision Tree Classifier, Gradient Boosting Classifier, Random Forest Classifier. In parallel I will perform search of the best hyperparameters using Scikit-learn Grid Search and Randomized Search CV.</description>
+    </item>
+    
+    <item>
+      <title>Project 1 Flight price prediction.</title>
+      <link>https://pgpxxx10.github.io/PGP_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 19 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pgpxxx10.github.io/PGP_Portfolio/post/project-1/</guid>
+      <description>I created a tool that predicts flight price with 95% accuracy. I used kaggle data for India market from 2019. The csv file include more than 10k records. The data are incorporate information about airport source, destination together with route and flight timeliness.  Link to full project below:
+ GitHub Repository for this Project</description>
+    </item>
+    
+  </channel>
+</rss>
